@@ -26,7 +26,7 @@ BESLAB_OSSPOI_DATASTORE_DIR: "/home/{{ BESLAB_USER }}/besecure-osspoi-datastore"
 
 # Internal languages, tools, repos
 BESLAB_JAVA_FLAVOUR: openjdk
-BESLAB_JAVA_VERSION: 8
+BESLAB_JAVA_VERSION: 11
 # BESLAB_JAVA_HOME: 
 BESLAB_PYTHON_VERSION: 3.10
 BESLAB_SBOM: spdx-sbom-generator
